@@ -10,7 +10,7 @@ index.js: A simple Node.js application that prints "Hello, World!" (or your chos
 Dockerfile: Defines how the Docker image for the application is built.
 .github/workflows/docker-build.yml: The GitHub Actions workflow that automates the build and push process.
 
-Prerequisites
+Prerequisites: 
 An AWS account with access to ECR
 A GitHub account
 Basic knowledge of Docker and GitHub Actions
