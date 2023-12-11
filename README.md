@@ -11,9 +11,9 @@ Dockerfile: Defines how the Docker image for the application is built.
 .github/workflows/docker-build.yml: The GitHub Actions workflow that automates the build and push process.
 
 Prerequisites
-An AWS account with access to ECR.
-A GitHub account.
-Basic knowledge of Docker and GitHub Actions.
+An AWS account with access to ECR
+A GitHub account
+Basic knowledge of Docker and GitHub Actions
 
 Setup
 1. AWS ECR Setup
